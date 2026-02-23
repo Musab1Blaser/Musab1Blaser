@@ -46,3 +46,17 @@ A deep dive into advanced data structures, specifically implementing and visuali
 * **LinkedIn:** [musab-kasbati](https://linkedin.com/in/musab-kasbati)
 * **YouTube:** [@musab3d](https://www.youtube.com/@musab3d)
 * **Email:** [musab.kas@gmail.com](mailto:musab.kas@gmail.com)
+
+---
+
+### 📈 GitHub Stats
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=musabkas&theme=dracula" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=musabkas&layout=compact&show_icons=true&theme=dracula" alt="Musab github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=musabkas&layout=compact&theme=dracula" alt="Musab github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=musabkas&theme=dracula" alt="Musab github readme activity graph" width="60%" />
+</div>
